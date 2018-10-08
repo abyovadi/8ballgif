@@ -99,9 +99,7 @@ noStroke();
   
     }
   
-    function mousePressed(){
-         save("N+.png");
-  N++
+
  
 loop();
   
