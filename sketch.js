@@ -81,7 +81,7 @@ noStroke();
     textSize(25);
     fill(0);
    textStyle(BOLD);
-  text("Outlook good", 70,50,50);
+  text("Outlook not so good", 70,50,50);
       textSize(25);
     fill(0);
   text("Reply hazy, try again", 390,70,50);
